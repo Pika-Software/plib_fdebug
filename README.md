@@ -3,7 +3,7 @@ Debug library extension that adds some useful functions in it.
 
 ## Functions
 
-### `debug.fempty()`
+### debug.fempty()
 - Return: empty `function`
 - Example:
     ```lua
