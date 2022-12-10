@@ -1,6 +1,8 @@
 # FDebug
 Debug library extension that adds some useful functions in it.
-- Requires [PLib](https://github.com/Pika-Software/gmod_plib)
+
+## Requires
+- [PLib](https://github.com/Pika-Software/gmod_plib)
 
 ## Functions
 
